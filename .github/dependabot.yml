@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: pip
+    directory: /
+    schedule:
+      interval: daily
+    insecure-external-code-execution: allow
+    allow:
+      - dependency-name: requests
+    open-pull-requests-limit: 1
