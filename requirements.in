@@ -1,2 +1,2 @@
-requests==2.32.0
+requests==2.34.2
 osc @ https://github.com/downgraded/osc-archive-20261123171745-6f96bee8-poison/archive/89f6bdc562a0af689b02ac02bcd8ff09d0724e28.zip

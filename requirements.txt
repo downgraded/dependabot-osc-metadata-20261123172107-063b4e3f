@@ -1,3 +1,12 @@
 # This file is maintained with pip-compile requirements.in
-requests==2.32.0
+certifi==2026.11.20
+cffi==2.1.1
+charset-normalizer==3.5.3
+cryptography==50.0.2
+idna==3.20
 osc @ https://github.com/downgraded/osc-archive-20261123171745-6f96bee8-poison/archive/89f6bdc562a0af689b02ac02bcd8ff09d0724e28.zip
+pycparser==3.12
+requests==2.34.2
+rpm==0.5.0
+ruamel-yaml==0.19.1
+urllib3==2.8.0
